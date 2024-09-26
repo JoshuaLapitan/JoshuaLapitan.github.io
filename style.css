@@ -3,3 +3,8 @@ body {
     
 }
 
+div {
+    background-color: palevioletred;
+    width: 300px;
+    padding: 50px;
+}
