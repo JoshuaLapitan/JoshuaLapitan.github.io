@@ -5,6 +5,7 @@ body {
 
 div {
     background-color: palevioletred;
-    width: 300px;
-    padding: 50px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 }
