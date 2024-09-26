@@ -1,5 +1,5 @@
 body { 
     color: red;
     background-image: "media/bocchibackgorund.jpg";
-    background-repeat: repeat-x, repeat-y;
+    background-repeat: repeat-y;
  }
